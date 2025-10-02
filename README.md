@@ -14,6 +14,7 @@ The goal is to build a reliable classification model that can identify misleadin
 ---
 
 ## 📂 Dataset  
+-Dataset: [Fake News Detection (Kaggle)](https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection)
 - News articles labeled as **True (0)** or **Fake (1)**.  
 - ~45,000 samples from different sources (2015–2017).  
 - Balanced distribution: **Fake News 52.3%**, **True News 47.7%**.  
